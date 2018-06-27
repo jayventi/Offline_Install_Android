@@ -10,7 +10,9 @@ If the applications APK can be made available via a URL endpoint it can be downl
 
 Then the appropriate URL to download the file would be
 
- `https://github.com/jayventi/raw-bin-test/raw/master/FDroid.apk`
+`https://github.com/jayventi/raw-bin-test/raw/master/FDroid.apk`
+
+`https://github.com/jayventi/raw-bin-test/raw/master/FDroid.zip`
 
 ### How to Send and Receive Apps Online From a GitHub repository###
 
