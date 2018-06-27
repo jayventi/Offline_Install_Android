@@ -6,13 +6,13 @@ Here are two easy methods to install Android applications in the field without u
 
 If the applications APK can be made available via a URL endpoint it can be downloaded and installed. GitHub provides a direct URL for each file in a repository. If there's an APK in a GitHub repository it can be pointed at in the following manner if it's standard path in GitHub is say
 
-`https://github.com/jayventi/raw-bin-test/blob/master/FDroid.apk` 
+`https://github.com/jayventi/Offline_Install_Android/blob/master/FDroid.apk` 
 
 Then the appropriate URL to download the file would be
 
-`https://github.com/jayventi/raw-bin-test/raw/master/FDroid.apk`
+`https://github.com/jayventi/Offline_Install_Android/raw/master/FDroid.apk`
 
-`https://github.com/jayventi/raw-bin-test/raw/master/FDroid.zip`
+`https://github.com/jayventi/Offline_Install_Android/raw/master/FDroid.zip`
 
 ### How to Send and Receive Apps Online From a GitHub repository###
 
