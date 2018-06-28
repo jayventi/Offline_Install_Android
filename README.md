@@ -32,7 +32,8 @@ The zip version can then be obtained with
 Done
 
 ## How to Side Install Android Apps Using Peer-to-Peer Bluetooth ##
-<br/>
+
+
 ### The Intent ###
 The intent of this app transmission-installation method is to produce a file on the receiving phone that itself can be used to retransmit the app again without Internet access, allowing for a self-sustaining retransmission network.  The method uses a zip file containing an APK which can be downloaded from the net onto your phone and then your phone transmitted without the Internet using Bluetooth to a receiving phone. The receiving phone can open the zip, and install the application from it. Importantly the receiving phones zip file remains available for retransmission to new phones. It's necessary to use a zip file for transmission between phones using Bluetooth because Bluetooth will not allow the transmission of an APK presumably on security grounds.
 
